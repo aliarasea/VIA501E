@@ -1,0 +1,17 @@
+[project]
+name = "via501e"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = 'aliarasea', email = "aliaras@outlook.comn" }
+]
+requires-python = ">=3.15"
+dependencies = []
+
+[project.scripts]
+via501e = "via501e:main"
+
+[build-system]
+requires = ["uv_build>=0.12.22,<0.13.0"]
+build-backend = "uv_build"
