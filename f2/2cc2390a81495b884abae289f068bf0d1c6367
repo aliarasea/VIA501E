@@ -1,0 +1,22 @@
+.python-version
+  h_b1a61064d52deb 1
+.vscode/settings.json
+  h_b1a61064d52deb 5-6
+classnotes/week2/python-if-loop-function.ipynb
+  h_b1a61064d52deb 1152,1154-1165,1167-1192,1238-1239,1241-1252,1254-1257,1264-1320,2107,2121
+pyproject.toml
+  h_b1a61064d52deb 9-13
+uv.lock
+  h_b1a61064d52deb 1-890
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f22cc2390a81495b884abae289f068bf0d1c6367",
+  "prompts": {},
+  "humans": {
+    "h_b1a61064d52deb": {
+      "author": "Ali Aras <aliaras@outlook.com>"
+    }
+  }
+}
