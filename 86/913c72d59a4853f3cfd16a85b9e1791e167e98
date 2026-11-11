@@ -1,0 +1,28 @@
+src/classnotes/week2/python-if-loop-function.ipynb
+  h_b1a61064d52deb 1-2173
+src/classnotes/week3/python-strings.ipynb
+  h_b1a61064d52deb 1923-1947,1949-1952,2678,2692
+src/examples.ipynb
+  h_b1a61064d52deb 1-73
+src/homework/data/output23
+  h_b1a61064d52deb 1-101932
+src/homework/homework1_solution.ipynb
+  h_b1a61064d52deb 1-333
+src/homework/problem1.py
+  h_b1a61064d52deb 1-23
+src/homework/problem2.py
+  h_b1a61064d52deb 1-38
+src/homework/problem3.py
+  h_b1a61064d52deb 1-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "86913c72d59a4853f3cfd16a85b9e1791e167e98",
+  "prompts": {},
+  "humans": {
+    "h_b1a61064d52deb": {
+      "author": "Ali Aras <aliaras@outlook.com>"
+    }
+  }
+}
